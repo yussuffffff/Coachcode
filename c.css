@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#hero {
+    background: url('hero-image.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
+
+header .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+header .navbar-nav .nav-link {
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section#features h3 {
+    font-size: 1.4rem;
+}
+
+section#testimonials .carousel-item {
+    font-size: 1.2rem;
+    padding: 40px 20px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+}
